@@ -475,4 +475,3 @@ module_exit(pil_riva_exit);
 
 MODULE_DESCRIPTION("Support for booting RIVA (WCNSS) processors");
 MODULE_LICENSE("GPL v2");
-
